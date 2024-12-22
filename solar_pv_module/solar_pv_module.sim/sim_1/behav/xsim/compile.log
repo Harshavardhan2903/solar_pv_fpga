@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/solar_pv_module/solar_pv_module.srcs/sources_1/new/solarpv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module solar_pv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/solar_pv_module/solar_pv_module.srcs/sim_1/new/tb_solarpv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module solar_pv_tb

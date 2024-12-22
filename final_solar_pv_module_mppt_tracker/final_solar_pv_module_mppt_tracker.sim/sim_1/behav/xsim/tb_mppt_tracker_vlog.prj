@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../final_solar_pv_module_mppt_tracker.srcs/sources_1/new/mppt_tracker.v" \
+"../../../../final_solar_pv_module_mppt_tracker.srcs/sim_1/new/tb_mppt_tracker.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time: 0 | Temp: 25 | Irradiance: 1000 | Power: 300 | Efficiency: 100
+Time: 10 | Temp: 25 | Irradiance:  800 | Power: 240 | Efficiency:  80
+Time: 20 | Temp: 35 | Irradiance: 1000 | Power: 288 | Efficiency:  96
+Time: 30 | Temp: 15 | Irradiance:  900 | Power: 282 | Efficiency:  94
+$finish called at time : 40 ns : File "C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/solar_pv_module/solar_pv_module.srcs/sim_1/new/tb_solarpv.v" Line 42

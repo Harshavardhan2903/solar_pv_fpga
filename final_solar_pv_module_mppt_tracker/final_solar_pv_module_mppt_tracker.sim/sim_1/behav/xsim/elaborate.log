@@ -1,0 +1,19 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_mppt_tracker_behav xil_defaultlib.tb_mppt_tracker xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 9 differs from formal bit length 8 for port 'voltage' [C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.srcs/sim_1/new/tb_mppt_tracker.v:19]
+WARNING: [VRFC 10-3091] actual bit length 9 differs from formal bit length 7 for port 'current' [C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.srcs/sim_1/new/tb_mppt_tracker.v:20]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clock_divider(DIVIDE_BY=32'b0111...
+Compiling module xil_defaultlib.mppt_tracker
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.tb_mppt_tracker
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_mppt_tracker_behav

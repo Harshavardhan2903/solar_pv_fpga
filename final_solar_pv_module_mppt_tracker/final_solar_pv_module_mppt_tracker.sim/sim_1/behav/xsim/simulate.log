@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time: 0ns, Voltage:   0, Current:   0, Duty Cycle: 128
+Time: 30ns, Voltage:  20, Current:  10, Duty Cycle: 128
+Time: 40ns, Voltage:  25, Current:  10, Duty Cycle: 128
+Time: 50ns, Voltage:  30, Current:  10, Duty Cycle: 128
+Time: 60ns, Voltage:  28, Current:  10, Duty Cycle: 128
+Time: 70ns, Voltage:  32, Current:   1, Duty Cycle: 128
+Time: 80ns, Voltage:  26, Current:  11, Duty Cycle: 128
+Time: 90ns, Voltage:  27, Current:  12, Duty Cycle: 128
+$finish called at time : 140 ns : File "C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.srcs/sim_1/new/tb_mppt_tracker.v" Line 51

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Dec 18 23:32:43 2024
+# Process ID         : 108348
+# Current directory  : C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/solar_pv_module/solar_pv_module.runs/impl_1
+# Command line       : vivado.exe -log solar_pv.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source solar_pv.tcl -notrace
+# Log file           : C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/solar_pv_module/solar_pv_module.runs/impl_1/solar_pv.vdi
+# Journal file       : C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/solar_pv_module/solar_pv_module.runs/impl_1\vivado.jou
+# Running On         : HarshavardhanRaghavendran
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 8215 MB
+# Swap memory        : 18176 MB
+# Total Virtual      : 26391 MB
+# Available Virtual  : 4854 MB
+#-----------------------------------------------------------
+source solar_pv.tcl -notrace

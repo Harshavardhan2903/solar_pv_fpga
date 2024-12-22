@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.srcs/sim_1/new/tb_mppt_tracker.v,1734632775,verilog,,,,tb_mppt_tracker,,,,,,,,
+C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.srcs/sources_1/new/mppt_tracker.v,1734671129,verilog,,C:/Users/sirha/OneDrive/Desktop/electronics/internship/winter_24/final_solar_pv_module_mppt_tracker/final_solar_pv_module_mppt_tracker.srcs/sim_1/new/tb_mppt_tracker.v,,clock_divider;mppt_tracker;top,,,,,,,,
